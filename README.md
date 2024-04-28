@@ -1,6 +1,6 @@
 # Jokempo
-Esse projeto simula uma partida de jokempo.
+Jokempo game.
 
-# Rodando o programa
-O jogo é entre dois participantes, ambos devem ser nomeados. Os nomes devem ser diferentes. 
-Após isso, cada um faz uma jogada e ele retorna o vencedor.
+## Using the program
+The game is between two participants, both must be nominated. The names must be different.
+After that, each person makes a move and returns the winner.
